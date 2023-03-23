@@ -38,7 +38,7 @@
 ## Instalasi
 
 # FOR REPLIT USER
-[![Run on Repl.it](https://repl.it/badge/github/yusup909/LinuxMDv5.2)](https://repl.it/github/yusup909/LinuxMDv5.2)
+[![Run on Repl.it](https://repl.it/badge/github/yusup909/LinuxMDv5.4)](https://repl.it/github/yusup909/LinuxMDv5.4)
 
 ----------
 
