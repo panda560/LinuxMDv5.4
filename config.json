@@ -8,7 +8,7 @@
     "sessionName": "session",
     "fotoDonasi": "./donasih.jpg",
     "pathimg": "./logolinux.jpg",
-    "BotKey": "your apikey",
+    "BotKey": "C3AZVse9",
     "OpenAIKey": "your openai key",
     "audio_di_bagian_menu": "./menu.mp3",
     "auto_welcomeMsg": false,
