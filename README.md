@@ -2,7 +2,7 @@
 -----------------------------------------------------
 
 <p align="center">
-<img src="https://github.com/yusup909/ReadMee/blob/main/a6cc8b081a0ce93967582afe4e2f624d.jpg" alt="LinuxMDv5.2" width="100"/>
+<img src="https://github.com/yusup909/ReadMee/blob/main/a6cc8b081a0ce93967582afe4e2f624d.jpg" alt="LinuxMDv5.4" width="100"/>
 
 
 </p>
@@ -10,25 +10,25 @@
 <a href="#"><img title="LinuxMD" src="https://img.shields.io/badge/LinuxChann MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/yusup909/LinuxMDv5.2"><img title="Owner" src="https://img.shields.io/badge/Record-YusupKakuu-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/yusup909/LinuxMDv5.4"><img title="Owner" src="https://img.shields.io/badge/Record-YusupKakuu-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/yusup909/followers"><img title="Followers" src="https://img.shields.io/github/followers/yusup909?color=red&style=flat-square"></a>
-<a href="https://github.com/yusup909/LinuxMDv5.2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/yusup909/LinuxMDv5.2?color=blue&style=flat-square"></a>
-<a href="https://github.com/yusup909/LinuxMDv5.2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/yusup909/LinuxMDv5.2?color=red&style=flat-square"></a>
-<a href="https://github.com/yusup909/LinuxMDv5.2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/yusup909/LinuxMDv5.2?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/yusup909/LinuxMDv5.2"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/yusup909/LinuxMDv5.2/"><img title="Size" src="https://img.shields.io/github/repo-size/yusup909/LinuxMDv5.2?style=flat-square&color=green"></a>
+<a href="https://github.com/yusup909/LinuxMDv5.4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/yusup909/LinuxMDv5.4?color=blue&style=flat-square"></a>
+<a href="https://github.com/yusup909/LinuxMDv5.4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/yusup909/LinuxMDv5.4?color=red&style=flat-square"></a>
+<a href="https://github.com/yusup909/LinuxMDv5.4/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/yusup909/LinuxMDv5.4?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/yusup909/LinuxMDv5.4"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/yusup909/LinuxMDv5.4/"><img title="Size" src="https://img.shields.io/github/repo-size/yusup909/LinuxMDv5.4?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeoneofficial%2FLinux-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/yusup909/LinuxMDv5.2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/yusup909/LinuxMDv5.4/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <a href="https://github.com/yusup909/LinuxMDv5.2#requirements">Requirements</a> •
-  <a href="https://github.com/yusup909/LinuxMDv5.2#instalasi">Installation</a> •
-  <a href="https://github.com/yusup909/LinuxMDv5.2#thanks-to">Thanks to</a> •
-  <a href="https://github.com/yusup909/LinuxMDv5.2#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/yusup909/LinuxMDv5.2#donate">Donate</a>
+  <a href="https://github.com/yusup909/LinuxMDv5.4#requirements">Requirements</a> •
+  <a href="https://github.com/yusup909/LinuxMDv5.4#instalasi">Installation</a> •
+  <a href="https://github.com/yusup909/LinuxMDv5.4#thanks-to">Thanks to</a> •
+  <a href="https://github.com/yusup909/LinuxMDv5.4#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/yusup909/LinuxMDv5.4#donate">Donate</a>
 </p>
 </div>
 
